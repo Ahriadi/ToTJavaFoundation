@@ -1,0 +1,1 @@
+public class TestInnerClass{	public MyIface getMyIface()	/** MyIface => diambil dari inteface/abstract MyIface*/	/** getMyIface => nama metodenya */	{		return new MyIface(){			/** new create nama objeknya*/						public void cetak()			{				System.out.println("cetak... boos ....");			}		};	}}

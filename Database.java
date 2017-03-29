@@ -1,0 +1,1 @@
+/**Dibuat Oleh ORACLE (PEMILIK JAVA)*/interface Database{	void konek();	void diskonek();}

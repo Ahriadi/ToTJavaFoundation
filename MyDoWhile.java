@@ -1,0 +1,1 @@
+public class MyDoWhile{	public static void main(String [] p)	{		int hitung=12;				do		{			System.out.println("do --While ke - " +hitung);						hitung++;		}while(hitung < 10000);	}}

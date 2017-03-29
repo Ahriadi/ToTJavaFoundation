@@ -1,0 +1,1 @@
+public class TestMobil{	public static  void main(String [] o)	{		Mobil avanza=new Mobil();				System.out.println("Jumlah Roda :"+avanza.roda);		System.out.println("Jumlah Mesin :"+avanza.mesin);				avanza.maju();		avanza.mundur();	}}

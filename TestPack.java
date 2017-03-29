@@ -1,0 +1,1 @@
+import id.ac.uho.lib.*;import id.ac.uho.*;public class TestPack{	public static void main(java.lang.String [] s)	{		id.ac.uho.lib.MyLibrary m=new id.ac.uho.lib.MyLibrary();		m.cetak();		LibLagi l=new LibLagi();		l.cetakLagi();			}}

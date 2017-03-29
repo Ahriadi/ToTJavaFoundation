@@ -1,0 +1,1 @@
+abstract class binatangabstract{	abstract void makan();		abstract void minum();		void bernafas()	{		System.out.println("bernafas...");	}}

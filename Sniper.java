@@ -1,0 +1,1 @@
+interface Sniper{	void menembak();}

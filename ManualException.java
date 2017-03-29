@@ -1,0 +1,1 @@
+public class ManualException{	static void bagi(int pembilang, int penyebut)	{		if(penyebut==0)		{		try		{			throw new Exception("Penyebut tidak boleh nol!!!");		}catch(Exception ex){			ex.printStackTrace();			}							}else{			int hasil=pembilang/penyebut;			System.out.println(hasil);		}	}		public static void main(String [] a)	{		bagi(10,2);			}}

@@ -1,0 +1,1 @@
+interface MyIface{	void cetak();}

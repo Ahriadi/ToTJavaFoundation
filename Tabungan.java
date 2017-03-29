@@ -1,0 +1,1 @@
+public class Tabungan{	private int saldo=1000;		public void setSaldo(int x)	{		if(x<=0){			System.out.println("Saldo tidak boleh nol");					}else if(x>=1000000){			System.out.println("Terjadi gejala money laundring");		}else{			saldo=x;		}	}		public int getSaldo()	{		return saldo;	}}// Tabungan t=new Tabungan();// t.saldo=-1000;

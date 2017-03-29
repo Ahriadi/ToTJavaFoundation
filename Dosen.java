@@ -1,0 +1,1 @@
+interface Dosen{	void mengajar();}

@@ -1,0 +1,1 @@
+public class TestBudi{	static void testManusia(Manusia m)	{		m.bernafas();	}		static void testSniper(Sniper s)	{		s.menembak();	}		static void testDosen(Dosen d)	{		d.mengajar();	}		public static void main(String [] m)	{		Budi q=new Budi();		testManusia(q);		testSniper(q);		testDosen(q);	}		}

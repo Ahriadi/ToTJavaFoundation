@@ -1,0 +1,1 @@
+public class MyWhile{	public static void main(String [] p)	{		int hitung=0;				while(hitung < 10000000)		{			System.out.println("While ke - " +hitung);						hitung++;		}	}}

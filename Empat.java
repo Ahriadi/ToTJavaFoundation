@@ -1,0 +1,1 @@
+class Satu{}class Dua{}class Tiga{}

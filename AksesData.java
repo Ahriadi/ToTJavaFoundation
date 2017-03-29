@@ -1,0 +1,1 @@
+public class AksesData{	public static void main(String [] i)	{		Database d=new IBMDriver();		d.konek();		d.diskonek();	}}

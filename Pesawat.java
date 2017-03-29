@@ -1,0 +1,1 @@
+public class Pesawat{	int sayap=2;	int ekor=1;	Pesawat()	// Pesawat(String s)	{		System.out.println("Object Pesawat dibuat...");	}		void terbang()	{		System.out.println("terbang");	}		void mendarat()	{		System.out.println("mendarat");	}		}

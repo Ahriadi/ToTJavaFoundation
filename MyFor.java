@@ -1,0 +1,1 @@
+public class MyFor{	public static void main (String [] o)	{		int penghitung=0;				for(penghitung=0; penghitung < 1000000000; penghitung++)		{			System.out.println("for ke - "+penghitung);		}	}}

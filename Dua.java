@@ -1,0 +1,1 @@
+class Satu{}public class Dua{	public static void main(String []y) 	{			System.out.println("Test");	}}class Tiga{}

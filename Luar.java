@@ -1,0 +1,1 @@
+class Luar{	void cetakLuar()	{		System.out.println("Cetak Luar..");	}	class Tengah	{		void cetakTengah()		{			// cetakLuar();			System.out.println("Tengah...");		}		class Dalam		{			void cetakDalam()			{				// cetakDalam();				// cetakLuar();				System.out.println("cetak dalam...");			}		}	}}

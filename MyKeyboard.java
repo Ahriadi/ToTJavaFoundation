@@ -1,0 +1,1 @@
+public class MyKeyboard{	public static void main(String [] d)	{		if(d.length == 0)		{			System.out.println("Anda tidak memasukkan Argment");		}else {			System.out.println("Argument anda :");			for(int i=0; i<d.length;i++)			{				System.out.println(d[i]);			}		}	}}

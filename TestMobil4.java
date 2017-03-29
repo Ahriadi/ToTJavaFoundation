@@ -1,0 +1,1 @@
+public class TestMobil4{	public static void main(String [] r)	{		Mobil xenia=new Mobil();				System.out.println("Roda Xenia : "+xenia.roda);		System.out.println("Mesin Xenia : "+xenia.mesin);		System.out.println("Body Xenia : "+xenia.body);	}}

@@ -1,0 +1,1 @@
+public class Budi extends Manusia implements Dosen,Sniper{	public void mengajar()	{		System.out.println("Mengajar");	}		public void menembak()	{		System.out.println("Menembak");	}		}
